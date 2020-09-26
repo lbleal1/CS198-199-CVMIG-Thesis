@@ -2,7 +2,7 @@
 ## Fulfillment for Undergraduate Thesis (CS 198 and 199)
 Project Duration: September 2019 - August 2020 
 
-<img align="right" src="https://github.com/lbleal1/CS198-199-CVMIG-Thesis/blob/master/assets/cvmig_announcements.png" height="550" width="550">
+<img align="right" src="https://github.com/lbleal1/CS198-199-CVMIG-Thesis/blob/master/assets/cvmig_announcements.png" width="450">
 
 **Abstract**
 
