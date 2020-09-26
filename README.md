@@ -2,8 +2,7 @@
 ## Fulfillment for Undergraduate Thesis (CS 198 and 199)
 Project Duration: September 2019 - August 2020 
 
-![CVMIG Announcement](/assets/cvmig_announcements.png)
-Advisers: Riza Rae Pineda and Kristofer delas Penas
+![CVMIG Announcement](/assets/cvmig_announcements.png = 50x50)
 
 Abstract:
 
