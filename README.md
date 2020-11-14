@@ -11,7 +11,7 @@ Road segmentation contributes significantly to different fields ranging from urb
 [Presentation slides](https://github.com/lbleal1/CS198-199-CVMIG-Thesis/blob/master/assets/%5BCS%20199-Espino-Leal%5D%20Final%20Thesis%20Presentation.pdf) 
 <br>
 **Errata on slides:** <br>
-Visualization on Bounding Boxes - the training set should only be the one visualized. This errata does not alter the resuts since the decisions were made only using the training set.
+Visualization on Bounding Boxes - the training set should only be the one visualized. This errata does not alter the resuts since the decisions regarding the model were made only using the training and valid dataset. 
 
 Note:
 This project uses [Matterport's implementation of Mask R-CNN](https://github.com/matterport/Mask_RCNN)
